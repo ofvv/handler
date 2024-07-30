@@ -1,0 +1,44 @@
+{
+  "bot": {
+    "db": "mongodb+srv:net/test?retryWrites=true&w=majority",
+    "web": {
+      "site": "www.zirobot",
+      "extension": "xyz",
+      "inviteurl": "invite"
+    },
+    "prefixes": {
+      "normalPrefix": "handler!",
+      "normalPrefix2": "testhandler!"
+    },
+    "tokens": {
+      "main": "",
+      "test": ".X0ZnlQ.99-bRPqmJyBbHE3ayHuy3TeyDq0",
+      "both": false,
+      "testbot": true,
+      "mainbot": false
+    },
+    "owners": {
+      "owner": "328768008669495296",
+      "owner2": "643009255372488704",
+      "owner3": "540520449852047391"
+    },
+    "ghost": {
+      "deleteafter": 30000,
+      "ghostbot": true,
+      "deleteusermsgs": false
+    }
+  },
+  "channels": {
+    "leavechannel": "",
+    "joinchannel": "",
+    "evalchannel": "",
+    "suggestionschannel": "",
+    "reportschannel": "",
+    "errchannel": "",
+    "updatedon": "",
+    "userschannel": "",
+    "channelschannel": "",
+    "serverschannel": "",
+    "nitroch": ""
+  }
+}
